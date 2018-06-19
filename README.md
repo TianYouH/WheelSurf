@@ -11,6 +11,8 @@
 ## 代码
 
 > 依赖库：jQuery
+>
+> [example](https://tianyouh.github.io/WheelSurf/index.html)
 
 ### index.html
 
@@ -120,3 +122,4 @@ function runF() {
 }
 ```
 
+[Github](https://github.com/TianYouH/WheelSurf)
