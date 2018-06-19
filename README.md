@@ -4,9 +4,9 @@
 
 一款简单便捷用于旋转轮播抽奖的model分享给大家。
 
-![test](C:\Users\jjlb\Desktop\test.gif)
+![example](https://github.com/TianYouH/WheelSurf/blob/69a2a4df022c946ad7e2ad4fcd3a2b492e083143/assets/images/test.gif?raw=true)
 
-
+（PS：示例图和下方代码布局不同，各位根据自己需求进行调整）
 
 ## 代码
 
@@ -119,3 +119,4 @@ function runF() {
     runT = setTimeout(runF, during * 50);
 }
 ```
+
